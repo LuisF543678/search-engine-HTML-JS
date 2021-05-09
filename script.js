@@ -20,11 +20,11 @@ const filtrar = () => {
         let nombre = producto.nombre.toLowerCase();
         if (nombre.indexOf(texto) !== -1) {
             resultado.innerHTML +=
-                `<li>${producto.nombre} - Valor: ${producto.valor}</li>`;
+                `<li href="#" class="list-group-item list-group-item-action list-group-item-info">${producto.nombre} - Valor: ${producto.valor}</li>`;
         }
     }
     if (resultado.innerHTML === '') {
-        resultado.innerHTML += `<li>Producto no encontrado...</li>`;
+        resultado.innerHTML += `<li href="#" class="list-group-item list-group-item-action list-group-item-danger">Producto no encontrado...</li>`;
     }
 }
 
