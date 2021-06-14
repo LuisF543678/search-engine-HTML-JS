@@ -1,10 +1,24 @@
 
 const productos = [
-    { nombre: 'Platanos', valor: 500 },
-    { nombre: 'Pera', valor: 500 },
-    { nombre: 'Sandia', valor: 500 },
-    { nombre: 'Melon', valor: 500 },
-    { nombre: 'Fritillas', valor: 500 }
+    { nombre: 'Platanos',   valor: 500 },
+    { nombre: 'Pera',       valor: 500 },
+    { nombre: 'Sandia',     valor: 500 },
+    { nombre: 'Melon',      valor: 500 },
+    { nombre: 'Fritillas',  valor: 500 },
+    { nombre: 'Naranja',    valor: 500 },
+    { nombre: 'apple',      valor: 500 },
+    { nombre: 'apricot',    valor: 500 },
+    { nombre: 'avocado',    valor: 500 },
+    { nombre: 'banana',     valor: 500 },
+    { nombre: 'bilberry', valor: 500 },
+    { nombre: 'blackberry', valor: 500 },
+    { nombre: 'blackcurrant', valor: 500 },
+    { nombre: 'blood orange', valor: 500 },
+    { nombre: 'blueberry', valor: 500 },
+    { nombre: 'boysenberry', valor: 500 },
+    { nombre: 'breadfruit', valor: 500 },
+    { nombre: 'canary melon', valor: 500 }
+
 ];
 
 
