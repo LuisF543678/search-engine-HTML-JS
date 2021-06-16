@@ -75,7 +75,7 @@ const filtrar = () => {
         }
     }
     if (resultado.innerHTML === '') {
-        resultado.innerHTML += `<li href="#" class="list-group-item list-group-item-action list-group-item-danger">Producto no encontrado...</li>`;
+        resultado.innerHTML += `<li href="#" class="notfound list-group-item list-group-item-action list-group-item-danger">Producto no encontrado...</li>`;
     }
 }
 
