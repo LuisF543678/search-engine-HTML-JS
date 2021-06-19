@@ -55,6 +55,34 @@ const productos = [
     { nombre: 'Tomate', valor: 500 },
     { nombre: 'Fruta ugli', valor: 500 },
     { nombre: 'Sandia', valor: 500 },
+    //  Verduras
+    { nombre: 'Alcachofa', valor: 500 },
+    { nombre: 'Calabaza', valor: 500 },
+    { nombre: 'Brotes de alfalfa', valor: 500 },
+    { nombre: 'Col', valor: 500 },
+    { nombre: 'Coliflor', valor: 500 },
+    { nombre: 'Perejil', valor: 500 },
+    { nombre: 'Lechuga', valor: 500 },
+    { nombre: 'Cilantro', valor: 500 },
+    { nombre: 'Repollo', valor: 500 },
+    { nombre: 'Alcaucil', valor: 500 },
+    { nombre: 'Rúcula', valor: 500 },
+    { nombre: 'Borraja', valor: 500 },
+    { nombre: 'Brotes de soja', valor: 500 },
+    { nombre: 'Acelga', valor: 500 },
+    { nombre: 'Pepino', valor: 500 },
+    { nombre: 'Betabel', valor: 500 },
+    { nombre: 'Chaucha', valor: 500 },
+    { nombre: 'Zucchini', valor: 500 },
+    { nombre: 'Puerro', valor: 500 },
+    { nombre: 'Espárrago', valor: 500 },
+    { nombre: 'Cardos', valor: 500 },
+    { nombre: 'Salvia', valor: 500 },
+    { nombre: 'Repollos de Bruselas', valor: 500 },
+    { nombre: 'Espinacas', valor: 500 },
+    { nombre: 'Apio', valor: 500 }
+
+
 
 ];
 
