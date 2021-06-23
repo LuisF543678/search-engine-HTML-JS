@@ -28,3 +28,8 @@ input {
   font-size: 28px !important;
   font-style: italic;
 }
+
+img {
+  height: 30px;
+  width: auto;
+}
